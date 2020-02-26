@@ -19,3 +19,33 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1582674788429	Marionette	INFO	Listening on port 38001
 1582674788442	Marionette	WARN	TLS certificate errors will be ignored for this session
 1582674792947	Marionette	INFO	Stopped listening on port 38001
+1582674943649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKZBmyV"
+1582674943926	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582674944094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582674944094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582674944094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582674944094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[2020-02-25T23:55:44Z ERROR audio_thread_priority::rt_linux] setrlimit64: 1
+1582674946151	Marionette	INFO	Listening on port 34963
+1582674946163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582674950811	Marionette	INFO	Stopped listening on port 34963
+1582675020232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileILghJH"
+1582675020494	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582675020665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582675020665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582675020665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582675020665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[2020-02-25T23:57:01Z ERROR audio_thread_priority::rt_linux] setrlimit64: 1
+1582675022852	Marionette	INFO	Listening on port 34583
+1582675022944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582675027692	Marionette	INFO	Stopped listening on port 34583
+1582675146569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBGAbZs"
+1582675146835	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582675147001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582675147001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582675147001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582675147001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[2020-02-25T23:59:07Z ERROR audio_thread_priority::rt_linux] setrlimit64: 1
+1582675149208	Marionette	INFO	Listening on port 39477
+1582675149279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582675149399	Marionette	INFO	Stopped listening on port 39477
