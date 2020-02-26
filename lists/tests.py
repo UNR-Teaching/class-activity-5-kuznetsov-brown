@@ -37,7 +37,7 @@ class HomePageTest(TestCase):
         self.assertTrue(html.strip().endswith('</html>'))
 
         self.assertTemplateUsed(response, 'home.html')
-        #self.assertTemplateUsed(response, 'wrong.html')
+        # self.assertTemplateUsed(response, 'wrong.html')
 
 
     def test_uses_home_template(self):
